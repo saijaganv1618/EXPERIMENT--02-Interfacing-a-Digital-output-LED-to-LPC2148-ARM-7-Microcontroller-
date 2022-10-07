@@ -150,14 +150,15 @@ int main()
 
 ## Output screen shots :
 ### LED blinking OFF:
-![out](![led off](https://user-images.githubusercontent.com/59290560/194515632-ee128ff2-abce-4dd5-a604-b64109f7061a.jpg)
+(![led off](https://user-images.githubusercontent.com/59290560/194515632-ee128ff2-abce-4dd5-a604-b64109f7061a.jpg)
 )
 
 ### LED blinking ON:
 ![out](led on.jpg)
 
 ### Layout:
-![out](final.jpg)
+(![final](https://user-images.githubusercontent.com/59290560/194516350-945e5449-5008-4ee6-a345-35d8bdd0ba02.jpg)
+)
 
 ## Result :
 Interfacing a digital output with ARM microcontroller is executed.
