@@ -154,7 +154,8 @@ int main()
 )
 
 ### LED blinking ON:
-![out](led on.jpg)
+(![led on](https://user-images.githubusercontent.com/59290560/194516599-96ba87c3-1396-4258-a06b-f23b81dad5dd.jpg)
+)
 
 ### Layout:
 (![final](https://user-images.githubusercontent.com/59290560/194516350-945e5449-5008-4ee6-a345-35d8bdd0ba02.jpg)
