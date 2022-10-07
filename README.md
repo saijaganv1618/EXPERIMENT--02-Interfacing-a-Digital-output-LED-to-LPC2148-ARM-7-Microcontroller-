@@ -146,7 +146,7 @@ int main()
          delay_ms(1000);
     }
 }
-~~ ~
+~~~
 
 ## Output screen shots :
 ### LED blinking OFF:
