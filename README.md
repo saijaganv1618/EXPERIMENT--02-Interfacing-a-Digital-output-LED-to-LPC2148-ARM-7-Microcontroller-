@@ -150,7 +150,8 @@ int main()
 
 ## Output screen shots :
 ### LED blinking OFF:
-![out](led off.jpg)
+![out](![led off](https://user-images.githubusercontent.com/59290560/194515632-ee128ff2-abce-4dd5-a604-b64109f7061a.jpg)
+)
 
 ### LED blinking ON:
 ![out](led on.jpg)
