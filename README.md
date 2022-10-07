@@ -151,10 +151,10 @@ int main()
 ## Output screen shots :
 ### LED blinking OFF:
 ![out](led off.jpg)
-)
+
 ### LED blinking ON:
 ![out](led on.jpg)
-)
+
 ### Layout:
 ![out](final.jpg)
 
